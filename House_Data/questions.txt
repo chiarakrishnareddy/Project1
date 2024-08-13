@@ -1,3 +1,0 @@
-- State based geo pandas map
-- linear regression model with price being y-val and features being everything else 
--  
